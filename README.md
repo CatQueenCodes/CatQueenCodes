@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=218291)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=218291)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=218291)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=218291)
+![React](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=React&color=218291)
 
 
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=catqueencodes&show_icons=true&theme=dracula)
