@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Learning something new everyday.
 Jr. Software Engineer looking to make the leap into the testing world! Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a testing position.  
 
-I help maintain [The Odin Project](https://www.theodinproject.com/) to help others achieve their goals. 
+I help maintain [The Odin Project](https://www.theodinproject.com/) to help others achieve their goals!
 
 ## Background
 Check out my [LinkedIn](https://www.linkedin.com/in/grace-schwartz/) to learn more!
