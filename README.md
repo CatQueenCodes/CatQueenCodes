@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Learning something new everyday.
-Jr. Software Engineer looking to make the leap into the testing world! 
+Jr. Software Engineer looking to make the leap into the testing world! Recently came to the realization that my strengths in planning, organization, attention to detail, creativity, ability to consider alternate perspectives, and enjoyment in finding bugs would be best utilized in a testing position.  
 
 I help maintain [The Odin Project](https://www.theodinproject.com/) to help others achieve their goals. 
 
