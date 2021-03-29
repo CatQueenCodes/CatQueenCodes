@@ -29,7 +29,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/grace-schwartz/) to learn mo
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=404254)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=404254)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=white&logo=React&color=404254)
-![Styled-components](https://img.shields.io/badge/-Styled-components-000?style=flat&logoColor=white&logo=React&color=404254)
+![styled-components](https://img.shields.io/badge/-styled--components-000?style=flat&logoColor=white&logo=styled-components&color=404254)
+![WebPack](https://img.shields.io/badge/-Webpack-000?style=flat&logoColor=white&logo=Webpack&color=404254)
+![NPM](https://img.shields.io/badge/-NPM-000?style=flat&logoColor=orange&logo=npm&color=404254)
 
 ## Stats
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=catqueencodes&show_icons=true&theme=dracula)
