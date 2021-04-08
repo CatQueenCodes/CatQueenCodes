@@ -34,5 +34,5 @@ Check out my [LinkedIn](https://www.linkedin.com/in/grace-schwartz/) to learn mo
 ![NPM](https://img.shields.io/badge/-NPM-000?style=flat&logoColor=orange&logo=npm&color=404254)
 
 ## Stats
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=catqueencodes&show_icons=true&theme=dracula)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=catqueencodes&show_icons=true&theme=dracula) 
 
